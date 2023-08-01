@@ -1,0 +1,1 @@
+global tempMonthValue, tempDayValue, tempYearValue, tempHourValue, tempMinuteValue, tempAMPMValue, AMPMIndex
